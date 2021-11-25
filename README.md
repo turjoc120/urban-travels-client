@@ -5,7 +5,7 @@ It is a full stack web application made with ReactJS, NodeJS etc...
 
 ## Live Demo of this website :
 
-- [Live Site Link](https://urban-tours.web.app/)
+- [Live Site Link](https://tours.web.app/)
 
 ## Technologies
 ### Front end 
