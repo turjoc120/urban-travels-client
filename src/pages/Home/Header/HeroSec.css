@@ -1,0 +1,88 @@
+.captions{
+    position: absolute;
+    width: 100vmax;
+    left: 0;
+    top: 15%;
+}
+
+.captions h1 {
+    font-size: 5rem;
+    font-weight: lighter;
+    margin-bottom: 20px;
+}
+
+.slide-img{
+height: 75vh;
+}
+
+.captions .hero-button{
+    padding: 15px 30px;
+}
+
+/* ectra styles  */
+.guide{
+    background-image: url("https://traveloregon.com/wp-content/uploads/2017/08/2897e508-d28d-11e6-84f8-b274538e4a9d.jpg");background-position: center;
+    background-size: cover;
+    height: 30vh;
+    background-color: rgb(0, 0, 0);
+    background-blend-mode: screen;
+}
+.semiFoot{background-color: rgba(177, 177, 177, 0.575); }
+
+.subscribe{
+    background-image: url("https://traveloregon.com/wp-content/uploads/2017/08/40df8206-d28d-11e6-96dc-00189120dd3e.jpeg");background-position: center;
+    background-size: cover;
+    height: 30vh;
+    background-color: rgb(19, 1, 1);
+    background-blend-mode: screen;
+}
+
+.guideline{
+    background-image: url('https://images.unsplash.com/photo-1454942901704-3c44c11b2ad1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80');
+    background-position: center;
+    background-size: cover;
+    height: 80vh;
+}
+/* media queries */
+/* mobiles */
+@media only screen and (max-width: 600px) {
+    .captions{  
+        position: absolute;
+        width: 100vmin;
+        left: 0%;
+       
+    }
+    .captions h1{
+        font-size:1.5rem;
+    }
+    .captions h5{
+        font-size: small;
+    }
+    .slide-img{
+        height: 45vh;
+    }
+    .captions .hero-button{
+        padding: 8px;
+    }
+    
+
+    
+}
+
+
+/* tablets  */
+@media only screen and (max-width: 768px) and (min-width: 600px) {
+    .captions{
+        position: absolute;
+        width: 100vmax;
+        
+       
+    }
+    .captions h1{
+        font-size:3rem;
+    }
+    .captions h5{
+        font-size: larger;
+    }
+    
+}

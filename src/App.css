@@ -1,0 +1,56 @@
+/* google fonts  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.App {
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  overflow: hidden;
+}
+
+/* custom common styles  */
+.card{transition: 200ms;}
+.card:hover{box-shadow: 4px 7px 38px -9px rgba(0,0,0,0.75);border-top:4px solid rgba(255, 166, 0, 0.74);}
+.book-button{background-color: rgba(255, 166, 0, 0.788); padding:0.5rem 1rem ; border: none; border-radius: .6rem;
+transition: 500ms;}
+.book-button:hover{background-color: rgba(255, 51, 0, 0.705);color: white;}
+.init-card{text-align: justify;padding: .5rem;}
+.tour-catagory:hover{opacity: 0.9; cursor: pointer;}
+.tour-button{position: relative;bottom: 50px;color: white;background-color: rgb(253, 59, 0);}
+
+
+
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

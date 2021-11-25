@@ -1,0 +1,68 @@
+[
+    {
+        "id": "1",
+        "title": "Flamingo Las Vegas, Las Vegas",
+        "img": "https://www.imgserver.ca/rt/shared/hotel-images/1266/1344_flamingo_las_vegas_1_P.jpg",
+        "img2": "https://s3.amazonaws.com/hotel-images-v1/img/hotellistings/1344_flamingo_las_vegas_2_P.jpg",
+        "img3": "https://s3.amazonaws.com/hotel-images-v1/img/hotellistings/1344_flamingo_las_vegas_3_P.jpg",
+        "price": "261",
+        "rooms": "Fab Room 2 Queen",
+        "place": "Toronto to Las Vegas",
+        "info": "From the newly designed GO Rooms to a wealth of dining and entertainment choices, Flamingo provesfabulous is forever. With classic Las Vegas style and flair, it continues to be one of the Strip’s most-visited resort destinations. Outside guests enjoy acres of waterfalls, winding pools and lush foliage at the Lagoon Pool and Wildlife Habitat. For adults, the GO Pool is the destination for an afternoon of relaxation. Inside, enjoy performances ranging star siblings Donny & Marie to comedians George Wallace and Vinnie Favorito. Afternoon frivolity is found at Nathan Burton’s Comedy Magic while adult fun is staged nightly at X Burlesque, the Topless Review. Diners can enjoy go tropical at Jimmy Buffett’s Margaritaville or simply go all out at the Paradise Garden Buffet. Flamingo is also the home of the world's first Margaritaville Casino, a Parrothead paradise straight out of a Jimmy Buffett album. For those on the go, the new Flamingo Food Court hosts a variety of eateries from the all-American menu at Johnny Rockets to a taste of the Orient at Pan Asian Express."
+    },
+    {
+        "id": "2",
+        "title": "Ballys Las Vegas Hotel ",
+        "img": "https://www.imgserver.ca/rt/shared/hotel-images/1262/448_ballys_1.jpg",
+        "img2": "https://s3.amazonaws.com/hotel-images-v1/img/hotellistings/BALLYS-20180904135134_P.jpg",
+        "img3": "https://s3.amazonaws.com/hotel-images-v1/img/hotellistings/BALLYS-20180904135152_P.jpg",
+        "price": "241",
+        "rooms": " King Non Smoking",
+        "place": " Toronto to Las Vegas",
+        "info": "True classics never go out of style, making Bally's Las Vegas the only choice for classic Vegas at the heart of the Las Vegas strip. And what could be more timeless than Mr. Las Vegas himself, Wayne Newton? In his original production, Wayne Newton: Up Close and Personal,Newton sings crowd favorites as well as engages with the audience by answering questions, making for a truly extraordinary experience. Before the show, dining options at Bally's Las Vegas include BLT Steak, an interpretation of an American steakhouse with traditional fare and a bistro ambiance. BLT Steak is also the stage for the Sterling Brunch offered every Sunday where diners can enjoy the endless pours of Perrier-Jouët Champagne and unlimited American Sturgeon Caviar - the two pinnacles of the Las Vegas Strip's most famously indulgent brunch. If you're looking for a menu that's a little less traditional, SEA: The Thai Experience at Bally's Las Vegas offers delicious cuisine from southeast Asia. Buca di Beppo serves up classic Italian cuisine family-style, perfect for sharing and passing around the table. At Tequila Taqueria you'll experience the soul of Mexico while enjoying delightfully authentic Mexican dishes."
+    },
+    {
+        "id": "3",
+        "title": "Stratosphere Casino Hotel ",
+        "img": "https://www.imgserver.ca/rt/shared/hotel-images/8690/sv_704_stratosphere_04.jps_J.jpg",
+        "img2": "https://s3.amazonaws.com/hotel-images-v1/img/hotellistings/sv_704_stratosphere_01.jps_P.jpg",
+        "img3": "https://s3.amazonaws.com/hotel-images-v1/img/hotellistings/sv_704_stratosphere_02.jps_P.jpg",
+        "price": "141",
+        "rooms": " Select Room King",
+        "place": " Toronto to Las Vegas",
+        "info": "True classics never go out of style, making Bally's Las Vegas the only choice for classic Vegas at the heart of the Las Vegas strip. And what could be more timeless than Mr. Las Vegas himself, Wayne Newton? In his original production, Wayne Newton: Up Close and Personal,Newton sings crowd favorites as well as engages with the audience by answering questions, making for a truly extraordinary experience. Before the show, dining options at Bally's Las Vegas include BLT Steak, an interpretation of an American steakhouse with traditional fare and a bistro ambiance. BLT Steak is also the stage for the Sterling Brunch offered every Sunday where diners can enjoy the endless pours of Perrier-Jouët Champagne and unlimited American Sturgeon Caviar - the two pinnacles of the Las Vegas Strip's most famously indulgent brunch. If you're looking for a menu that's a little less traditional, SEA: The Thai Experience at Bally's Las Vegas offers delicious cuisine from southeast Asia. Buca di Beppo serves up classic Italian cuisine family-style, perfect for sharing and passing around the table. At Tequila Taqueria you'll experience the soul of Mexico while enjoying delightfully authentic Mexican dishes."
+    },
+    {
+        "id": "4",
+        "title": "Sahara Las Vegas, Las Vegas",
+        "img": "https://www.imgserver.ca/rt/shared/hotel-images/98738/255_sls_las_vegas_hotel_and_casino_0_J.jpg",
+        "img2": "https://s3.amazonaws.com/hotel-images-v1/img/hotellistings/255_sls_las_vegas_hotel_and_casino_1_P.jpg",
+        "img3": "https://s3.amazonaws.com/hotel-images-v1/img/hotellistings/255_sls_las_vegas_hotel_and_casino_01_P.jpg",
+        "price": "197",
+        "rooms": " Select Room King",
+        "place": " Toronto to Las Vegas",
+        "info": "Built on the grounds of the Sahara Hotel, SLS is a new destination that captures Vegas' hip heritage and future cool. SLS's unparalleled dining and nightlife collection includes Bazaar Meat by Jose Andres, Katsuya, Cleo, The Sayers Club, Foundry Concert Hall and Foxtail Pool Club. Play in our casino for an experience as legendary as our location.ne from southeast Asia. Buca di Beppo serves up classic Italian cuisine family-style, perfect for sharing and passing around the table. At Tequila Taqueria you'll experience the soul of Mexico while enjoying delightfully authentic Mexican dishes."
+    },
+    {
+        "id": "5",
+        "title": "Westgate Las Vegas Resort",
+        "img": "https://www.imgserver.ca/rt/shared/hotel-images/1271/449_westgate_las_vegas_resort_and_casino_1_J.jpg",
+        "img2": "https://s3.amazonaws.com/hotel-images-v1/img/hotellistings/449_westgate_las_vegas_resort_and_casino_2_P.jpg",
+        "img3": "https://s3.amazonaws.com/hotel-images-v1/img/hotellistings/449_westgate_las_vegas_resort_and_casino_3_P.jpg",
+        "price": "250",
+        "rooms": " Premium Room",
+        "place": " Toronto to Las Vegas",
+        "info": "Westgate Las Vegas Resort & Casino is celebrated for its storied past as Elvis' former home (the King performed for 837 consecutive sold out shows here, breaking all Las Vegas attendance records), its expansive variety of suites, abundant onsite amenities, superb customer service and prime location adjacent to the Las Vegas Convention Center. Westgate Las Vegas Resort & Casino boasts an extraordinary array of services and amenities, from the World's Largest Race & Sports Book to the world-famous Benihana. In addition, Westgate Las Vegas Resort & Casino offers a Las Vegas Monorail onsite for easy access to the rest of the excitement on the Las Vegas Strip."
+    },
+    {
+        "id": "6",
+        "title": "Rio All Suite Hotel ",
+        "img": "https://www.imgserver.ca/rt/shared/hotel-images/1828/1191_rio_las_vegas_1_J.jpg",
+        "img2": "https://s3.amazonaws.com/hotel-images-v1/img/hotellistings/1191_rio_las_vegas_2_P.jpg",
+        "img3": "https://s3.amazonaws.com/hotel-images-v1/img/hotellistings/1191_rio_las_vegas_5_P.jpg",
+        "price": "400",
+        "rooms": " Deulux Room",
+        "place": " Toronto to Las Vegas",
+        "info": "Spacious suites and luxurious amenities complement the gaming thrills, sumptuous dining and hot entertainment found at Rio. The excitement of Carnival radiates throughout the casino floor and out to the pools of VooDoo Beach where guests can soak up the sun in both family-friendly and adults-only areas. Inside, guests can dine at celebrity chef Guy Fieri's restaurant El Burro Borracho, feast on over 300 dishes prepared daily at the Carnival World & Seafood Buffet or experience the city's finest panoramic views at VooDoo Steak. Enjoy the KISS by Monster Mini Golf 18-Hole miniature golf course filled with state-of-the-art video, special effects and unique KISS props. See Las Vegas in the most thrilling and spectacular way when you ride the Voodoo Zipline and soar more than 400 feet above the ground at exhilarating speeds. Back on the ground, entertainers Penn & Teller and the Chippendales keep audiences enraptured nightly or rock out to the great rock songs of the 80's when you watch the worldwide smash hit musical, Rock of Ages. Of course, you may prefer to dance above the lights and under the stars at VooDoo Rooftop Nightclub located 51 floors about the excitement."
+    }
+]
